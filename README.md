@@ -1,1 +1,1 @@
-# ET robot contest competition program wit C
+# ET robot contest competition program with C
